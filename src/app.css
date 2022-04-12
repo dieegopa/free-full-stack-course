@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+	background: url(./assets/fondo.svg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100vh;
+	color: white;
+}
